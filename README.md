@@ -19,6 +19,8 @@
   <img alt="Badge DoWhile 2021" src=".github/nlw-heat.png" width="100%">
 </p>
 
+GitHub Pages https://bnevenuto.github.io/badge-doWhile2021/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
