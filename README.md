@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bagde DoWhile 2021
+  Badge DoWhile 2021
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Bagde DoWhile 2021" src=".github/nlw-heat.png" width="100%">
+  <img alt="Badge DoWhile 2021" src=".github/nlw-heat.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Bagde DoWhile 2021 é uma aplicação estática com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021.
+O Badge DoWhile 2021 é uma aplicação estática com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021.
 
 ## 🔖 Layout
 
